@@ -1,2 +1,4 @@
 pip-tools
 jupyter
+nb-clean
+pre-commit
