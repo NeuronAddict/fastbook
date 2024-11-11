@@ -419,6 +419,7 @@ pyrsistent==0.19.3
 python-dateutil==2.8.2
     # via
     #   adal
+    #   arrow
     #   jupyter-client
     #   kaggle
     #   matplotlib
@@ -581,6 +582,8 @@ traitlets==5.9.0
     #   notebook
 transformers==4.29.1
     # via fastbook
+treeinterpreter==0.2.3
+    # via -r requirements.in
 triton==2.0.0
     # via torch
 typer==0.7.0
@@ -608,6 +611,8 @@ wasabi==1.1.1
     #   thinc
 watchdog==3.0.0
     # via nbdev
+waterfallcharts==3.8
+    # via -r requirements.in
 wcwidth==0.2.6
     # via prompt-toolkit
 webcolors==1.13
